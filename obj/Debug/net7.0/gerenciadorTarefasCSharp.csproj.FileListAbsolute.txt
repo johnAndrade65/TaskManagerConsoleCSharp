@@ -1,0 +1,15 @@
+C:\Projetos\gerenciadorTarefasCSharp\bin\Debug\net7.0\gerenciadorTarefasCSharp.exe
+C:\Projetos\gerenciadorTarefasCSharp\bin\Debug\net7.0\gerenciadorTarefasCSharp.deps.json
+C:\Projetos\gerenciadorTarefasCSharp\bin\Debug\net7.0\gerenciadorTarefasCSharp.runtimeconfig.json
+C:\Projetos\gerenciadorTarefasCSharp\bin\Debug\net7.0\gerenciadorTarefasCSharp.dll
+C:\Projetos\gerenciadorTarefasCSharp\bin\Debug\net7.0\gerenciadorTarefasCSharp.pdb
+C:\Projetos\gerenciadorTarefasCSharp\obj\Debug\net7.0\gerenciadorTarefasCSharp.csproj.AssemblyReference.cache
+C:\Projetos\gerenciadorTarefasCSharp\obj\Debug\net7.0\gerenciadorTarefasCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\gerenciadorTarefasCSharp\obj\Debug\net7.0\gerenciadorTarefasCSharp.AssemblyInfoInputs.cache
+C:\Projetos\gerenciadorTarefasCSharp\obj\Debug\net7.0\gerenciadorTarefasCSharp.AssemblyInfo.cs
+C:\Projetos\gerenciadorTarefasCSharp\obj\Debug\net7.0\gerenciadorTarefasCSharp.csproj.CoreCompileInputs.cache
+C:\Projetos\gerenciadorTarefasCSharp\obj\Debug\net7.0\gerenciadorTarefasCSharp.dll
+C:\Projetos\gerenciadorTarefasCSharp\obj\Debug\net7.0\refint\gerenciadorTarefasCSharp.dll
+C:\Projetos\gerenciadorTarefasCSharp\obj\Debug\net7.0\gerenciadorTarefasCSharp.pdb
+C:\Projetos\gerenciadorTarefasCSharp\obj\Debug\net7.0\gerenciadorTarefasCSharp.genruntimeconfig.cache
+C:\Projetos\gerenciadorTarefasCSharp\obj\Debug\net7.0\ref\gerenciadorTarefasCSharp.dll
